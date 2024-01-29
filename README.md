@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A web app**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **`@._Josh_` on discord**
 
